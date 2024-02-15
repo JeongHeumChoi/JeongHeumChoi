@@ -1,6 +1,6 @@
 <h1>JeongHeumChoi's Profile 👋</h1>
 
-##📚 Tech Stack 📚
+## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
