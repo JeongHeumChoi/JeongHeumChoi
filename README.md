@@ -20,3 +20,6 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongheumchoi&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongheumchoi&layout=compact&theme=dracula)
+
+##
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwjddn%2Fhit-counter&count_bg=%23484947&title_bg=%23A29191&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>
