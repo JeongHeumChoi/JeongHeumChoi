@@ -1,7 +1,7 @@
 <div align="center">
 <h1>JeongHeumChoi's Profile 👋</h1>
 
-<h2>컴퓨터는 거짓말하지 않는다!</h2>
+<h2><br><br>컴퓨터는 거짓말하지 않는다.<br><br><br></h2>
 
 ## 🔨 Tech Stack
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
