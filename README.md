@@ -24,3 +24,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHeumChoi&count_bg=%233F3E36&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jeongheumchoi?pet-id=1" width="1000" height="120"/>
+</a>
