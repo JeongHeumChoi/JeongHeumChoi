@@ -1,5 +1,6 @@
 <div align="center">
-  <h2><br><br>컴퓨터는 거짓말하지 않는다.<br><br><br></h2>
+  <h2/>
+  <h2><br>컴퓨터는 거짓말하지 않는다.<br><br><br></h2>
 
   <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
